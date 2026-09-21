@@ -79,8 +79,6 @@ npm start
 
 ## Author
 
-Twitter: [@libraiger](https://x.com/libraiger)
-
-Telegram: [@libraiger](https://t.me/lovely_libra777)
+Telegram: [@nagi_777x](https://t.me/nagi_777x)
 
 You can always find me here, for help, or for other projects.
